@@ -19,4 +19,7 @@ int main(){
 	printf("%s", Msg);
 	//Max= 23; //error: lvalue required as left operand of assignment
 	printf("print define %d\n", Max);
+	printf("char value of 321 \%c\n", 321);
+	printf("char value: %c\n", 321);
+	printf("321 256 : %d\n", 321%256);
 }
